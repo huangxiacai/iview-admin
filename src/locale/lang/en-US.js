@@ -1,0 +1,48 @@
+export default {
+  components: 'Components',
+  count_to_page: 'Count-to',
+  tables_page: 'Table',
+  split_pane_page: 'Split-pane',
+  markdown_page: 'Markdown-editor',
+  editor_page: 'Rich-Text-Editor',
+  icons_page: 'Custom-icon',
+  img_cropper_page: 'Image-editor',
+  update: 'Update',
+  doc: 'Document',
+  join_page: 'QQ Group',
+  update_table_page: 'Update .CSV',
+  update_paste_page: 'Paste Table Data',
+  multilevel: 'multilevel',
+  directive_page: 'Directive',
+  level_1: 'level-1',
+  level_2: 'level-2',
+  level_2_1: 'level-2-1',
+  /*****devicetype*****/
+  btn_del_text:'delete',
+  btn_add_text:'add',
+  btn_edit_text:'edit',
+  btn_cancel_text:'cancel',
+  table_column_deviceType:'device type',
+  table_column_qustionNumber:'number of problem',
+  table_column_operating:'operating',
+  advanced_search:'search',
+  /**********操作提示**********/
+  operation_success:'Success！',
+  operation_fail:'Fail',
+  /***********用户提示消息提示*******************/
+  message_isDelete:'Choose the data you want to delete',
+  message_rules_deviceType:' device type can\'t be empty',
+  /****************placeholder提示*****************************/
+  placeholder_input_deviceType:'put the device type',
+  /*****************title*************/
+  title_add_deviceType:'New device type',
+  title_edit_deviceType:'edit device type',
+  /*******问题分类********/
+  table_column_serialNumber:'serial number',
+  table_column_questionCategory:'question category',
+  table_column_answersNumber:'question number',
+  title_add_questionCategory:'add question category',
+  title_edit_questionCategory:'edit question category',
+  placeholder_input_serialNumber:'please input serial number',
+  placeholder_input_questionCategory:'please input serial number',
+}
